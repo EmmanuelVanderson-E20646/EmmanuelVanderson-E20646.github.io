@@ -3,7 +3,7 @@ This is my first GitHub project. I published this project directly from visual s
 
 # This is an H1
 ## This is an H2
-*	Red
-*	Green
-*	Blue
--	List item
+*Red
+*Green
+*Blue
+-List item
